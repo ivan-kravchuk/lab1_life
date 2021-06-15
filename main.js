@@ -330,7 +330,7 @@ var label_3 = blessed.text({
     height: '10%',
     colors: 'black',
     inputOnFocus: true,
-    content: 'Виконав Загаєцький О. А. 3кн-19б',
+    content: 'Кравчук І.О. 3кн-19б',
     tags: true,
     style: {
         bg: 'white',
